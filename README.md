@@ -1,16 +1,16 @@
-### Hi there 👋
+www.github.com
+1.git clone 地址
+2.git add *
+ git commit
+3.git push 上传
+4.git pull
 
-<!--
-**20049200327/20049200327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+int main()
+｛
+       setup();
+       while (1)
+     ｛
+         loop();
+      ｝
+       return 0;
+ ｝
